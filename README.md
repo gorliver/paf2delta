@@ -1,5 +1,5 @@
 # paf2delta
-convert paf to delta format.
+Convert paf to delta format.
 This script relay on the `cs` tags in the paf to determine the postions of indels.
 Hence, the mapping commond should contain `--cs`:
 ```
